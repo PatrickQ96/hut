@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 25.06.2019 00:20:23
+# File Created: 25.06.2019 00:26:12
 
 newmtl test1_house_Clay_Resin
 	Ns 10.0000
@@ -10,30 +10,6 @@ newmtl test1_house_Clay_Resin
 	illum 2
 	Ka 0.1059 0.1059 0.1059
 	Kd 0.1059 0.1059 0.1059
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-
-newmtl test1_house_BMD_BeechWood
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.1216 0.0667 0.0000
-	Kd 0.1216 0.0667 0.0000
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-
-newmtl test1_house_mossy_stone
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.5412 1.0000
-	Kd 0.0000 0.5412 1.0000
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
 
@@ -49,31 +25,31 @@ newmtl test1_house_BMD_BrushedSteel_0011
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
 
-newmtl test1_house__null_
+newmtl test1_house_mossy_stone
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
 	Tf 1.0000 1.0000 1.0000 
 	illum 2
-	Ka 0.5880 0.5880 0.5880
-	Kd 0.5880 0.5880 0.5880
+	Ka 0.0000 0.5412 1.0000
+	Kd 0.0000 0.5412 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl test1_house_BMD_BeechWood
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1216 0.0667 0.0000
+	Kd 0.1216 0.0667 0.0000
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
 
 newmtl test1_house_Glass
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5880 0.5880 0.5880
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-
-newmtl test1_house_Rubber
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
