@@ -1,7 +1,7 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 25.06.2019 03:04:31
+# File Created: 25.06.2019 10:17:20
 
-newmtl test1_test1_test1_house_Clay_Resin
+newmtl test1_test1_test1_test1_house_Clay_Resin
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -13,7 +13,7 @@ newmtl test1_test1_test1_house_Clay_Resin
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
 
-newmtl test1_test1_test1_house_BMD_BrushedSteel_0011
+newmtl test1_test1_test1_test1_house_BMD_BrushedSteel_0011
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -25,7 +25,7 @@ newmtl test1_test1_test1_house_BMD_BrushedSteel_0011
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
 
-newmtl test1_test1_test1_house_BMD_PBRMetallic
+newmtl test1_test1_test1_test1_house_BMD_PBRMetallic
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -37,7 +37,7 @@ newmtl test1_test1_test1_house_BMD_PBRMetallic
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
 
-newmtl test1_wire_135059008
+newmtl test1_test1_wire_135059008
 	Ns 32.0000
 	Ni 1.5000
 	d 1.0000
